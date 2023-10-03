@@ -1,0 +1,24 @@
+:root{
+    --var-color1:#DC87FF;
+    --var-color2:#AB7BE8;
+    --var-color3:#A695FF;
+    --var-color4:#7B86E8;
+    --var-color5:#87B3FF;
+}
+
+.footer{
+    background-color: var(--var-color1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoF{
+    height: 16px;
+    margin: 1rem;
+}
+
+.textF{
+    font-size: 16px;
+    margin: 1rem;
+}
